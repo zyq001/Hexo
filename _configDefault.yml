@@ -3,12 +3,26 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
+<<<<<<< HEAD
 title: Hexo
 subtitle:
 description:
 author: John Doe
 language:
 timezone:
+=======
+title: Mk Zang
+subtitle:
+description: Mk Zang' blog
+author: Mk Zang
+author_title: 'Byr@Java.BigData'
+avatar: css/images/avatar.png
+location: 'Harbin, China'
+follow: https://github.com/zyq001/
+language: zh_CN
+timezone:
+since: 2000 # The start year showing in your copyright section.
+>>>>>>> 74a0f62bd3a8335fe0811581c0f43b185a1b5698
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -63,7 +77,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
+<<<<<<< HEAD
 theme: landscape
+=======
+theme: icarus
+>>>>>>> 74a0f62bd3a8335fe0811581c0f43b185a1b5698
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

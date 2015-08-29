@@ -9,7 +9,11 @@ description: Mk Zang' blog
 author: Mk Zang
 author_title: 'Byr@Java.BigData'
 avatar: css/images/avatar.png
+<<<<<<< HEAD
 location: 'Harbin, China'
+=======
+location: 'Beijing, China'
+>>>>>>> 74a0f62bd3a8335fe0811581c0f43b185a1b5698
 follow: https://github.com/zyq001/
 language: zh_CN
 timezone:
@@ -71,8 +75,13 @@ plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
 
+<<<<<<< HEAD
 theme: icarus
 
+=======
+theme: hueman
+#theme: icarus
+>>>>>>> 74a0f62bd3a8335fe0811581c0f43b185a1b5698
 # Disqus
 # disqus_shortname: hexo-theme-icarus
 
