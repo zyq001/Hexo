@@ -1,5 +1,3 @@
-<<TableOfContents(3)>>
-
 = 关于Parquet =
 Parquet是面向分析型业务的列式存储格式，由Twitter和Cloudera合作开发，2015年5月从Apache的孵化器里毕业成为Apache顶级项目，细节请参考[[这里|http://parquet.apache.org/documentation/latest/]]。
 
