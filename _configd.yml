@@ -3,21 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Mk Zang
+title: Hexo
 subtitle:
-description: Mk Zang' blog
-author: Mk Zang
-author_title: 'Byr@Java.BigData'
-avatar: css/images/avatar.png
-location: 'Harbin, China'
-follow: https://github.com/zyq001/
-language: zh_CN
+description:
+author: John Doe
+language:
 timezone:
-since: 2000 # The start year showing in your copyright section.
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://zyq001.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
