@@ -71,8 +71,8 @@ plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
 
-theme: hueman
-#theme: icarus
+#theme: hueman
+theme: icarus
 # Disqus
 # disqus_shortname: hexo-theme-icarus
 
