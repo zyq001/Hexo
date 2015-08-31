@@ -75,7 +75,8 @@ theme: icarus
 # disqus_shortname: hexo-theme-icarus
 
 # DuoShuo
-# duoshuo_shortname: hexo-theme-icarus
+duoshuo_shortname: mk-zang
+
 
 
 # Deployment
