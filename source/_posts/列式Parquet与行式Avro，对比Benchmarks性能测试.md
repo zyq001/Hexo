@@ -3,7 +3,7 @@ date: 2015-09-01 00:40:09
 tags: [parquet, 列式存储, HDFS, Spark]
 categories: [Hadoop, HDFS, 存储格式, Parquet] 
 thumbnail: /images/parquet_tn.png
-banner: /images/benchmarks.gif
+banner: /images/aswpic.jpg
 ---
 
 ## 关于Parquet

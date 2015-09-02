@@ -3,7 +3,7 @@ date: 2015-08-30 15:15:46
 tags: [git, github, changes not staged, 问题] 
 categories: [git] 
 thumbnail: /images/github_logo.png
-banner: /images/github_logo1.png
+banner: /images/git.jpg
 ---
 ### 1,github changes not staged for commit
 
