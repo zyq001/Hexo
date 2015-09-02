@@ -77,8 +77,14 @@ theme: icarus
 # DuoShuo
 duoshuo_shortname: mk-zang
 
+plugins:
+- hexo-generator-feed
+- hexo-generator-sitemap
 
-
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
