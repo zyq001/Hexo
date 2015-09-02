@@ -230,17 +230,17 @@ banner: /images/interview.jpg
    - 加锁：双重检测加锁 不能达到真正的线程安全，1.5之前主要是JIT编译器执行顺序问题.1.6之后可能是指令重排（volatile可解决？）
    - 使用私有的静态类来实现：  
   
-	``public class Singleton  
-	{  
-   		 private static class SingletonHolder //私有静态类  
-   		 {  
-   			 public final static Singleton instance = new Singleton();  
-   		 }  
-   		 public static Singleton getInstance()  
-   			 {  
-   	 	 return SingletonHolder.instance;  
-   			 }  
-   		 }``
+	    public class Singleton  
+    	{  
+       		 private static class SingletonHolder //私有静态类  
+       		 {  
+       			 public final static Singleton instance = new Singleton();  
+       		 }  
+       		 public static Singleton getInstance()  
+       			 {  
+       	 	 return SingletonHolder.instance;  
+       			 }  
+       		 }
       
 
 4. 枚举单例
