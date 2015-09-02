@@ -1,10 +1,12 @@
 title: Java 类加载机制学习
 date: 2015-03-02 23:43:31
 tags: [Java, JVM]  
-categories: [JAVA] 
+categories: [Java] 
+thumbnail: /images/loader_gif.gif
+banner: /images/loader_01.jpg
 ---
 
-# 虚拟机**类加载机制：  
+# 虚拟机类加载机制：  
 &#8195;&#8195;**虚拟机把描述类的数据从class文件加载到内存，并对数据进行校验、转换解析和初始化，最终形成可以被虚拟机直接使用的Java类型。  
 &#8195;&#8195;Java语言里，类型的**加载**和**连接**过程是在**程序运行**期间完成的。  
 
