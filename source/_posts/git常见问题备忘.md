@@ -1,7 +1,7 @@
 title: git常见问题备忘
 date: 2015-08-30 15:15:46
 tags: [git, github, changes not staged, 问题] 
-categories: [git] 
+categories: [研发管理, git] 
 thumbnail: /images/github_logo.png
 banner: /images/git.jpg
 ---
