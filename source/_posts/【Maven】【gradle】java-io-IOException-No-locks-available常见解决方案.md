@@ -2,6 +2,8 @@ title: '【Maven】【gradle】java.io.IOException: No locks available常见解�
 date: 2015-05-03 09:55:02  
 tags: [Maven, gradle]  
 categories: [研发管理, maven/gradle]   
+thumbnail: /images/maven_tb.png  
+banner: /images/maven_bner.png
 ---
 
 thumbnail: /images/maven_tb.png

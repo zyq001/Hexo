@@ -2,8 +2,8 @@ title: 'Java, 基础（面试题）总结（分享-交流）'
 date: 2015-04-29 02:02:42 
 tags: [Java, 面试]
 categories: [Java, 面试]
-thumbnail: /images/Java_Duke_learning.png
-banner: /images/interview.jpg
+thumbnail: /images/Java_Duke_learning.png  
+banner: /images/java.jpg  
 ---
 
 ### 1. Finally，final，finalize  

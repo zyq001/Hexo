@@ -1,7 +1,9 @@
 title: SDN笔记
-date: 2015-09-03 11:46:58
+date: 2015-04-15 11:46:58
 tags: [SDN]  
 categories: [SDN]   
+thumbnail: /images/sdntb.jpg
+banner: /images/sdn.png
 ---
 命令：  
      `virsh net-list`  查看网桥

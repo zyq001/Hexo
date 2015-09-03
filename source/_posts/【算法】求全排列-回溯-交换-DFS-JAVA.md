@@ -2,8 +2,8 @@ title: 【算法】求全排列 回溯 交换 DFS JAVA
 date: 2015-04-15 09:54:43  
 tags: [算法， Java]  
 categories: [算法]   
-thumbnail: /images/loader_gif.gif  
-banner: /images/loader_01.jpg  
+thumbnail: /images/cube.jpg  
+banner: /images/combinationalcards.jpg  
 ---
 
 思路简述：  
