@@ -1,5 +1,5 @@
 title: 列式Parquet与行式Avro，对比Benchmarks性能分析
-date: 2015-09-01 00:40:09
+date: 2015-08-20 00:40:09
 tags: [parquet, 列式存储, HDFS, Spark]
 categories: [Hadoop, HDFS, 存储格式, Parquet] 
 thumbnail: /images/parquet_tn.png
